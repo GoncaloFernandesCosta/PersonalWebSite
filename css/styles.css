@@ -1,5 +1,10 @@
 body, h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
+.cv{
+    width: 100%;
+    height: 500px;
+}
+
 .w3-row-padding img {margin-bottom: 12px}
 /* Set the width of the sidebar to 120px */
 
